@@ -3,10 +3,6 @@
 Data is my thing, specially time-series from complex systems :coffee:
 
 
-
-![Ilustración_sin_título](https://user-images.githubusercontent.com/62116253/137078339-d884329d-894a-4227-bf3c-64c13fc96d06.gif)
-
-
 <!--
 **antonietamg/antonietamg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
