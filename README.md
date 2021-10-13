@@ -1,5 +1,11 @@
 ### Hello Everybody! :musical_note:
 
+Data is my thing, specially time-series from complex systems :coffee:
+
+![Uploading Ilustración_sin_título.gif…]()
+
+
+
 <!--
 **antonietamg/antonietamg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
