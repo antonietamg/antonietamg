@@ -2,7 +2,7 @@
 
 Data is my thing, specially time-series from complex systems :coffee:
 
-![Uploading Ilustración_sin_título.gif…]()
+[Uploading Ilustración_sin_título.gif…]()
 
 
 
