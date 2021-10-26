@@ -1,6 +1,7 @@
-### Hello Everybody! :musical_note:
+### Hello Everybody! :musical_note: :coffee:
 
-Data is my thing, specially time-series from complex systems :coffee:
+![DDD](https://user-images.githubusercontent.com/62116253/138848111-6fae77c0-8287-4a64-b515-ba9677dbe1a7.png)
+
 
 
 <!--
